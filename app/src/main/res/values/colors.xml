@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Tạo độ tương phản cao, phù hợp cho nền hoặc văn bản -->
     <color name="black">#FF000000</color>
+
+    <!-- Cho văn bản hoặc biểu tượng trên nền xanh -->
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Cho các phần nền phụ -->
+    <color name="gray">#B7B7B7</color>
+
+    <!-- Màu chủ đạo -->
+    <color name="blue">#2196F3</color>
+
+    <!-- Cho các phần tử phụ -->
+    <color name="lightBlue">#64B5F6</color>
+
+    <!-- Cho các phần tử quan trọng -->
+    <color name="darkBlue">#1565C0</color>
+
+    <!-- Cho các phần tử phụ hoặc biểu đồ -->
+    <color name="green">#4CAF50</color>
+
+    <!-- Tạo độ tương phản mạnh, phù hợp cho các nút hành động hoặc điểm nhấn -->
+    <color name="orange">#FF9800</color>
+
+    <!-- Cho các cảnh báo hoặc thông báo lỗi -->
+    <color name="red">#FF5252</color>
+
+    <!-- Cho các phần nền phụ, tạo cảm giác ấm áp -->
+    <color name="beige">#FFECB3</color>
 </resources>
