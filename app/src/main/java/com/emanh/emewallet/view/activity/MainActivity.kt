@@ -1,12 +1,13 @@
-package com.emanh.emewallet
+package com.emanh.emewallet.view.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.emanh.emewallet.R
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BasicActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
